@@ -4,5 +4,5 @@
 
 	$total=$valor1+$valor2;
 
-	echo "la suma es: ".$total;
+	echo "la suma es....: ".$total;
 ?>
